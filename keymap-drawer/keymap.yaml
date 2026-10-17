@@ -5,7 +5,7 @@ layers:
   DEF:
     - ["", Q, W, E, R, T, Y, U, I, O, P, ""]
     - ["", {t: A, h: Alt}, {t: S, h: Ctrl}, {t: D, h: Super}, {t: F, h: Shift}, G, H, {t: J, h: Shift}, {t: K, h: Super}, {t: L, h: Ctrl}, {t: BSpace, h: Alt}, ""]
-    - ["", Z, X, C, V, B, N, M, Tab, Esc, "", ""]
+    - ["", Z, X, C, V, B, N, M, Tab, Esc, Caps Lock, ""]
     - {}
     - {h: Lower}
     - {t: Space}
